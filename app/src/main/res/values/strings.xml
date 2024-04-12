@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="searchbar_hint">Search User</string>
+    <string name="this_activity">Menu Activity</string>
+    <string name="search_hint">Search User</string>
+    <string name="github_user">GitHub User</string>
+    <string name="avatar">Avatar</string>
+    <string name="icon">Icon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="logo">Logo</string>
+    <string name="UserImage">User Image</string>
+    <string name="favoriteaction">FavoriteAction</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="removed_from_favorite">Removed From Favorite</string>
+    <string name="added_to_favorite">Added To Favorite</string>
+    <string name="hapus_favorite">%s delete from favorite</string>
+    <string name="tambah_favorite">%s has been added to favorite</string>
+</resources>
